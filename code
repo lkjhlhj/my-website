@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+  <body>
+    <h1>fast go</h1>
+    <p><a href="#second-page">second page</a></p>
+    <p><a href="#fav-websites">my fav websites</a></p>
+    <p><a href="#friends">friends</a></p>
+    <p><a href="#game">about me</a></p>
+    <p><a href="#fam">famaily</a></p>
+    <p><a href="#hobbies">hobbies</a></p>
+    <p><a href="#dogs">dogs</a></p>
+    <p><a href="#cats">cat section</a></p>
+    <p><a href="#youtuber">yt section</a></p>
+    <style>
+      .idontknow {
+        color: pink
+      }
+      .thing1 {
+        color: #f7e301
+      }
+      .joe {
+        color:royalblue
+      }
+      p {
+        color: #02ff00
+      }
+      ol {
+        color:#0f00ff
+      }
+      h1 {
+        color: #ffd700
+      }
+      h2 {
+        color: #af00ff;
+      }
+      body {
+        background-color:black
+      }
+      h3 {
+        color: aqua
+      }     
+      h6 {
+        color: white;
+      }
+    </style>
+    <em> <h1>all about me</h1>  
+      <p>im sometimes silly</p>
+      <p id="dogs"> these are the top three dogs i like</p>
+      <ol><li>husky</li>
+        <li>german shepard</li>
+        <li>pitbull</li></ol>
+      <h2>pitbull</h2>
+      <img alt="red nosed pitbull" src="red-nosed-pit-bull-3406870__340.jpg" width="300">
+      <p>the first reason i like the pitbull<br>
+        is beacause i looks very cool<br>
+        they can be trained<br>
+        and my last reason <br>
+        is they are so nice<br></p>
+      <h2>german shepard</h2>
+      <img alt="german shepard" src="german-shepard.jpg" width="300">
+      <p>they are very loyal<br>
+        and friendy<br>
+        and cool to have<br></p>
+      <h1>the husky</h1>
+      <img alt="huskey" src="husky-2671006__340.jpg" width="300">
+      <p>the reason I like the husky<br>
+        is that they are just the best<br></p></em>
+    <p id="another">another thing about me is that I just started to code</p>
+    <h2>I like dogs and not cats</h2>
+    <p id="cats">even tho i dont like cats
+      these are my top 3</p>
+    <ol><li>cheetha</li>
+      <li>black panther</li>
+      <li>jaguar</li></ol>
+    <img src="istockphoto-1254530990-170667a.jpg" width="300" alt="cheetah running">
+    <p>they are really fast<br>
+      so fast they are the <br>
+      fastest land animal alive</p>
+    <img src="black-panther-3466399__340.jpg" width="300"alt="black panther">
+    <p>they are a stelth animal<br>
+      so they ambush there prey<br></p>
+    <img src="jaguar-3370498__340.jpg" width="300" alt="jagar">
+    <p>they have fur that can camoflash<br>
+      so when the prey dosent expect it<br>
+      it atacks<br></p>
+    <h1>those are my favrioet cats and dogs.</h1>
+    <h3 id="game">so ya im 11 years old My name is diego<br>
+      im in 5th grade<br>
+      just dicided to make this<br>
+      i like to play call of duty<br>
+      or go outside and play games<br>
+      and code some games<br></h3>
+    <h6>edited on march 24 2023 8:41</h6>
+    <h3>copy this link to play my game.</h3>
+    <p><a target="_blank" href="https://studio.code.org/projects/applab/obU_H9fwew6hljJUMRo-efnNixoOhGv7SIBlZtbTPqI">my game</a></p>
+    <h2>this is part one open in new tab</h2>
+    <h1 id="hobbies">my hobbies</h1>
+    <p class="joe">1.call of duty<br>
+      <img src="images.jpeg" width="300">
+    <p class="thing1">the reason i like to play cod<br> is beacause i try to get a dub<br>
+      in cod when i do i get happy<br></p>
+    2.<p class="joe">drawing<br></p>
+    <img src="download.png" width="250">
+    <p class="thing1">the reason I like drawing<br>
+      is because i like to draw<br>
+      a mountan range<br></p>
+    3.<p class="joe">playing games</p>
+    <img src="download-(2).jpeg" width="300">
+    <p class="thing1">the reason I like to play games<br>
+      is beacuse i like to get dubs<br>
+      in every single game<br></p>
+    <h1 id="fam">my famliy</h1>
+    <ol>1.brother/kobe<br>
+      2.sister/jasmine<br>
+      3.dad/angel<br>
+      4.mom/dawn<br>
+      5.me/Diego<br></ol>
+    <h1 id="youtuber">my top 2 favroit youtubers<h1>
+      <ol><li>lazerbeam</li>
+        <img src="download-(9).jpeg" width="150">
+        <p class="idontknow">i like lazerbeam because he is<br>
+          funny and bored</p>
+        <h3><a target="_blank" href="https://www.youtube.com/@LazarBeam">lazarsbeams yt</a></h3>
+        <li>fundy</li><ol>
+        <img src="images-(1).jpeg" width="150">
+        <p class="idontknow">the reason i like fundy<br> is because he codes<br>
+          alot in minecraft<br></p>
+        <h3><a target="_blank" href="https://www.youtube.com/@Fundy">fundy yt</a></h3>
+        <h1 id="friends">friends</h1>
+        <ol><li>landon</li>
+          <li>me</li>
+          <img src="IMG_20230329_135314.jpg" width="300">
+          <li>merlin</li>
+          <li>immanuel</li>
+          <li>Tristan</li></ol>
+        <h1 id="fav-websites"> websites</h1>
+        <p><a href="https://code.org/">code.org</a></p><h4 id="second-page">second page</h4><h3><a target="_blank" href="https://codeprojects.org/projects/weblab/6LYhj-AoLTPajqFya4QjZKrz5Bim0C80UANfiEJsggA/">second page</a>link to my second website</h3>
+
+
+
+        </body>
+        </html>
